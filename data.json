@@ -1,0 +1,338 @@
+{
+    "Pac-ManPumpkin ": {
+        "name": "Pac-Man Pumpkin",
+        "date": "October 2021",
+        "info": [
+            {
+                "type": "description",
+                "src": "The Pac-Man Pumpkin Project was made by a team of 4 friends I led to create an idea from two years prior.  The project uses two pumpkins to represent a screen and controller and allows the user to play a game of Pac-Man.  The project used an arduino, desktop power supply, and an RGB LED strip as the brains, power, and display of the game console.  The project was featured on the Instructables website."
+            }
+        ],
+        "media": [
+            {
+                "type": "link",
+                "src": "https://www.instructables.com/Make-a-Pumpkin-Into-a-Pacman-Playing-Game-Console/"
+            },
+            {
+                "type": "linked-video",
+                "src": "https://www.youtube.com/embed/-GSsDYDT6Ok"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/PacmanPumpkin.jpg"
+            }
+        ]
+    },
+    "WeatherbyDoorClosingRobot ": {
+        "name": "Weatherby Door Closing Robot",
+        "date": "December 2020",
+        "info": [
+            {
+                "type": "description",
+                "src": "This project was made to be a remote controlled and automated way to shut a friend's door since they had complained about the problem in the past.  This was made for a secret santa event, and was my first real experience using a raspberry pi for a robotics project.  The device included an ultrasonic sensor mounted on a servo motor, allowing the robot to turn the sensor and determine distances to obstacles."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Weatherby.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Weatherby2.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Weatherby3.jpg"
+            }
+        ]
+    },
+    "VirtualPresenceDevice ": {
+        "name": "Virtual Presence Device",
+        "date": "January 2020",
+        "info": [
+            {
+                "type": "description",
+                "src": "For my final project in a Research and Design course I attended at Nantyr Shores SS, I developed a virtual presence device with the hope of allowing me to use a virtual reality headset to remotely move the robot and it's attached arm.  This project used Unity Game Engine to run the VR portion of the project and a third party streaming network's API to send a video feed to the user.  The project did face issues with power consumption but could be improved in the future to be lighter and more efficient."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/VirtualPresence.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/VirtualPresence2.jpg"
+            }
+        ]
+    },
+    "Laser-CutTrebuchet ": {
+        "name": "Laser-Cut Trebuchet",
+        "date": "January 2020",
+        "info": [
+            {
+                "type": "description",
+                "src": "As a project for a Research and Design course I attended at Nantyr Shores SS, I worked with a partner to design a trebuchet that could be laser-cut.  The device was designed in AutoCAD and used Inkscape software for the exporting to the laser cutter's file format.  The trebuchet could launch a projectile up to 6m away, played a large role in the development of my 2D CAD abilities, and was my first experience with laser cutting."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Trebuchet.jpg"
+            },
+            {
+                "type": "linked-video",
+                "src": "https://www.youtube.com/embed/nalOQkzW4Cw"
+            }
+        ]
+    },
+    "2KgCardboardBridge ": {
+        "name": "2kg Cardboard Bridge",
+        "date": "October 2020",
+        "info": [
+            {
+                "type": "description",
+                "src": "One of the major projects for a Reseatch and Development course I was attending at Nantyr Shores SS included a cardboard bridge that spanned 2m and could hold 70kg.  This project involved working with a team of four to sketch, experiment, design, tweak, and build a cardboard bridge capable of holding a person.  This project involved learning a new 3D CAD software, Inventor, and developed my CAD detailing abilities."
+            }
+        ],
+        "media": [
+            {
+                "type": "linked-video",
+                "src": "https://www.youtube.com/embed/ouLJjSMrSKk"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Bridge.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Bridge2.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Bridge3.jpg"
+            }
+        ]
+    },
+    "CommunityAlertApp ": {
+        "name": "Community Alert App",
+        "date": "February 2020",
+        "info": [
+            {
+                "type": "description",
+                "src": "In my second Hackathon I participated in a pair with one of the friends from the first Hackathon to create an app to allow users to make markers on a map to alert others in the community about things like potholes, broken stop signs, etc.  The app involved solving image compression problems that even the mentors at the event were unable to help us with."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Hackathon2020.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Hackathon20202.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Hackathon20203.jpg"
+            },
+            {
+                "type": "link",
+                "src": "https://twitter.com/TMrakas/status/1229842863665577985"
+            }
+        ]
+    },
+    "Face-TrackingRoboticArm ": {
+        "name": "Face-Tracking Robotic Arm",
+        "date": "November 2019",
+        "info": [
+            {
+                "type": "description",
+                "src": "My face tracking robotic arm featured a table mounted arm caoable of moving to face a person if it detected a face.  Using python's OpenCV library and an AI model trained to find faces as well as an arduino to control the motors of the arm, I was able to control the device.  This was a step in development for my larger goal of a Virtual Presence Device which I went on to develop soon after.  This innovation was entered in Aurora's third Youth Innovation Fair where it won the Most Innovative Award, first place."
+            }
+        ],
+        "media": [
+            {
+                "type": "link",
+                "src": "http://www.newspapers-online.com/auroran/young-innovators-share-their-ideas-for-the-future/"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/RobotArm.jpg"
+            }
+        ]
+    },
+    "CanadaEnergyTrackerApp ": {
+        "name": "Canada Energy Tracker App",
+        "date": "May 2019",
+        "info": [
+            {
+                "type": "description",
+                "src": "As a project for my grade 9 science course I worked with a friend from our previous hackathon and another classmate to develop an app to track energy usage and costs.  Without the 30 hour time limit of my previous app development experience I was able to advanve my user interface designing abilities, and developed by app development skills, applying improvements to my code I learned from the hackathon."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/EnergyTracker.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/EnergyTracker2.jpg"
+            }
+        ]
+    },
+    "ParksAndTrailsApp ": {
+        "name": "Parks and Trails App",
+        "date": "April 2019",
+        "info": [
+            {
+                "type": "description",
+                "src": "In a team with two friends we entered Aurora Library's youth hackathon to develop an app in a 30 hour time period that showed landmarks around the Town of Aurora on a map.  This was our first Hackathon and experience with app development.  In preparation for the competition we were required to learn how to use the Android Studio IDE and Java language within a week.  Despite being a group of grade 9s in a competition of mostly grade 11s we managed to complete our app which was presented to the Mayor of Aurora and Library management staff, and won second place overall."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Hackathon2019.jpg"
+            }
+        ]
+    },
+    "Snowcaster ": {
+        "name": "SnowCaster",
+        "date": "November 2018",
+        "info": [
+            {
+                "type": "description",
+                "src": "The SnowCaster was a bluetooth controlled tank-looking device that move and push snow based on user inputs through an Android app.  My idea behind the device was to have a robot constantly shovel our driveway during snowy weather, in order to avoid having to move mass quanities of snow.  The device features makeshift tank treads from PVC piping, and was built with ideas of implementing computer vision and making the system autonomous in mind.  The SnowCaster was presented at the Aurora Youth Innovation Fair where many spectators took interest in my idea and the device won the Community Leadership award."
+            }
+        ],
+        "media": [
+            {
+                "type": "linked-video",
+                "src": "https://www.youtube.com/embed/OpNexJQPBY8"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/SnowCaster.jpg"
+            }
+        ]
+    },
+    "JeoprodyClickers ": {
+        "name": "Jeoprody Clickers",
+        "date": "June 2018",
+        "info": [
+            {
+                "type": "description",
+                "src": "For my teacher I deisgned and built a jeopardy console that would allow his students to click a buzzer to answer a question.  This project was 3D printed and arduino controlled, and was the first time I developed a project specifically to be given to someone else.  This advanced my project documentation and instruction writing ability."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/JeopardyClickers.jpg"
+            }
+        ]
+    },
+    "Inflatabox ": {
+        "name": "Inflatabox",
+        "date": "June 2018",
+        "info": [
+            {
+                "type": "description",
+                "src": "For a grade 8 entrepeneurship project I created a housing for inflatable christmas decorations.  To allow for the deflation of christmas decorations without having a deflated santa on your lawn the Inflatabox used an elevating platform to hide the decorations.  This project was controlled with an Arduino which allowed the project to automatically raise and inflate, and lower and deflate an inflatable decoration based off of times set by the user through an onboard user interface."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Inflatabox.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Inflatabox2.jpg"
+            }
+        ]
+    },
+    "MicrosoftEducationBlogPost ": {
+        "name": "Microsoft Education Blog Post",
+        "date": "May 2018",
+        "info": [
+            {
+                "type": "description",
+                "src": "For our speech task in grade 8 I research, wrote, and presented a speech about Artificial Intelligence to the school.  This was picked up by a parent that happened to be in the audience and was the Co-Founder of Microsoft Education's Fair Chance Learning.  This article is unfortuanetly no longer active but developed my ability to speak simply about complex topics, taught me a lot about deep neural networks and various AI training techniques"
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/AIArticle.jpg"
+            }
+        ]
+    },
+    "CallDiffusionDemonstration ": {
+        "name": "Call Diffusion Demonstration",
+        "date": "November 2017",
+        "info": [
+            {
+                "type": "description",
+                "src": "For a grade 8 cell diffusion project I used an arduino, ultrasonic sensor, and recycled LED circuit to represent diffusion of nutrients from a red blood cell to surrounding tissue.  The blood cell was on a disc driven by a motor and as it moved through through some arc of its path would be detected by the ultrasonic sensor.  On detection the cell would stop and white leds would blink, indicating the transfer of nutrients from the cell to the surrounding tissue.  Finally a blue LED would turn on to indicate that the tissue had recieved it's nutrients and the cell would move forward on it's path.  It wasn't pretty but it worked well to demonstrate diffusion."
+            }
+        ],
+        "media": [
+            {
+                "type": "linked-video",
+                "src": "https://www.youtube.com/embed/aXVnKHF5Ezg"
+            }
+        ]
+    },
+    "DishLift ": {
+        "name": "Dish Lift",
+        "date": "November 2017",
+        "info": [
+            {
+                "type": "description",
+                "src": "My Dish Lift was an elevating platform to raise and lower pet food.  This was designed to be used by those who could not easily bend over to switch out their pet's food.  The design features a scissor lift and switch that could be operated by the user's foot in order to raise and lower the platform.  This innovation was present at East Gwillimbury's second Ideas Expo fair, and at Aurora's first Youth Innovation Fair. The Dish Lift won first prize at the Ideas Expo."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/DishLift.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/DishLift2.jpg"
+            }
+        ]
+    },
+    "Coolband ": {
+        "name": "CoolBand",
+        "date": "November 2016",
+        "info": [
+            {
+                "type": "description",
+                "src": "As my first innovation project I made a device that could be tied around my head and cool me down using an attached fan.  This was a very simple electronics project but was the start of my product development hobby which continued to create marketable smart products.  This project was presented at a local fair: East Gwillimbury's Ideas Expo and also developed my public speaking and marketing ability.  This idea won second place at the Ideas Expo."
+            }
+        ],
+        "media": [
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Coolband.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Coolband2.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Coolband3.jpg"
+            },
+            {
+                "type": "image",
+                "src": "https://mattisrobot.github.io/img/Coolband4.jpg"
+            }
+        ]
+    }
+}
