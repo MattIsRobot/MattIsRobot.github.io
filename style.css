@@ -1,0 +1,131 @@
+@font-face
+{
+    font-family: main;
+    src: url("Louis\ George\ Cafe.ttf") format("truetype");
+}
+* {
+	font-family: main;
+   }
+
+a {
+	outline: none;
+  text-decoration: none;
+  color: rgb(29, 0, 109);
+}
+
+html,body {
+	height: 100%;
+	margin:0;
+
+	
+}
+
+#main{
+	margin-left:  6vw;
+	background: linear-gradient(to bottom, #1c5d99 0%, #e0dfd5 50%, #18a999 100%);
+}
+
+.section {
+	width: 94%;
+	border: 0px;
+	background: rgba(255, 255, 255, 0.0);
+	padding: 2vw;
+}
+.sectionI {
+	width: 94%;
+	border: 0px;
+	background: rgba(255, 255, 255, 0.0);
+	padding-top: 2vw;
+	padding-right: 2vw;
+	padding-left: 2vw;
+	padding-bottom: 0.5vw;
+}
+
+#nav {
+	height: 100%; 
+	width: 6vw; 
+	position: fixed; 
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x: hidden; 
+	transition: 0.5s; 
+	margin: 0;
+	background-color: #0d0106;
+	text-align: right;
+	
+
+}
+
+#main {
+	transition: margin-left .5s;
+}
+
+#navIcon {
+	font-size: 3em;
+	color: white;
+	margin-right: 1.25vw;
+	margin-top: 1.25vw;
+	background: transparent;
+	border: 0;
+	height: 1.5em;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#navTextList {
+	display: none;
+	border-left: 2px;
+	border-color: white;
+	margin-left: 1vw;
+	text-align: left;
+}
+
+.index{
+	text-align: left;
+	color: white;
+	text-decoration: none;
+}
+
+.sectionHead{
+	display: flex;
+}
+
+
+.sectionDate{
+	display: flex;
+	text-align: left;
+	padding:6px
+}
+
+.sectionDesc{
+	width: 60%;
+	padding-bottom: 2.5%
+}
+
+iframe {
+	width: auto;
+	height:auto; 
+}
+
+.mediaLink{
+	width: 100vw;
+}
+
+.flexbox{
+	display: flex;
+	flex-direction: row;
+}
+
+.grid { 
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(min-content, 300px));
+	grid-gap: 20px;
+	align-items: start;
+	}
+  .grid img {
+	max-width: 100%;
+  }

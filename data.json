@@ -1,0 +1,175 @@
+{"OrganicChemistryNomenclatureSolver ":{"name": "Organic Chemistry Nomenclature Solver","date": "December 2021","info": [
+		{
+			"type":"description",
+			"src":"I programmed a publicly accessible tool that automatically names organic compounds based on attributes described by the user.  This program uses JavaScript to take in input, come up with the type of organic compound inputted, generate a name, and let the user know of the chemical reactions that could have made this compound or may use this compound.  This tool is available to everyone as it is hosted on https://themoviescoop.com (currently offline as we circumvent costly hosting)."}],"media": [{
+			"type":"link",
+			"src": "http://tempmoviescoop.ddns.net/sketchy/orgo/"
+		}]},"Pac-ManPumpkin ":{"name": "Pac-Man Pumpkin","date": "October 2021","info": [
+		{
+			"type":"description",
+			"src":"The project uses two pumpkins to represent a screen and a controller, which allows the user to play a game of Pac-Man.  The project used an Arduino, a desktop power supply, and an RGB LED strip as the brains, power, and display of the game console.  The idea for this project came from a failed attempt at the same goal two years prior.  Two years ago I led a group of classmates and used individual RGB LEDs and seven Arduino Unos in I2C communication to try to display Pac-Man.  The previous attempt however failed due to overly complex software and failing to meet power requirements on the seven controllers.  Once I came up with the solution to this and Covid regulations permitted I gathered a group of four friends to help iterate on the project, this time using a stronger power supply and a single Arduino with an LED strip.  The project was featured on the Instructables website."}],"media": [{
+			"type":"link",
+			"src": "https://www.instructables.com/Make-a-Pumpkin-Into-a-Pacman-Playing-Game-Console/"
+		},{
+			"type":"linked-video",
+			"src": "https://www.youtube.com/embed/-GSsDYDT6Ok"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/PacmanPumpkin.jpg"
+		}]},"WeatherbyDoorClosingRobot ":{"name": "Weatherby Door Closing Robot","date": "December 2020","info": [
+		{
+			"type":"description",
+			"src":"This project was made to be a remote-controlled and automated way to shut a friend's door since they had expressed wanting some door-closing solution in the past.  This was made for a secret Santa event and was my first real experience using a Raspberry Pi for a robotics project.  Over wifi, the device could receive instructions on how to proceed to and close the door.  The device has an ultrasonic sensor mounted on a servo motor, allowing the robot to turn the sensor and determine distances to obstacles which could be used to automate the task of avoiding obstacles to the door."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Weatherby.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Weatherby2.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Weatherby3.jpg"
+		}]},"CommunityAlertApp ":{"name": "Community Alert App","date": "February 2020","info": [
+		{
+			"type":"description",
+			"src":"In my second Hackathon, a friend and I paired up to create an Android app called Experience Aurora to allow users to report community problems.  The app allowed the user to take an image of the problem which would be accessible to other users through a marker on a map.  Possible use cases include reporting things like potholes, broken stop signs, roadkill, etc.  The app also told users about local weather, allowed town staff to post events, and showed town staff contact information.  The app involved solving image encoding problems that even the mentors at the event were unable to help us with.  Ultimately we won first place despite being a team of two and one of the youngest groups competing."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Hackathon2020.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Hackathon20202.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Hackathon20203.jpg"
+		},{
+			"type":"link",
+			"src": "https://twitter.com/TMrakas/status/1229842863665577985"
+		}]},"NewboticsFrcRobotForInfiniteRecharge ":{"name": "Newbotics#8349 Community FRC Team","date": "January 2020 - Present","info": [
+		{
+			"type":"description",
+			"src":"I had a crucial role in the founding of Newbotics, Newmarket's community FRC team (8349).  In the founding year, I played a major role in the design and construction of our robot.  The team designed the robot around the FRC Infinite Recharge game, with a focus on simplicity and consistency, being that this was the team's first robot.  Due to Covid, we were unable to compete in our first year.  The following year there was no major game, again because of Covid, but a set of challenges designed to be able to be completed by our previous robot.  I acted as the programming lead and we decided to switch the robot's code from LabView to Java. I worked with small groups of the team to teach Java and make more advanced autonomous routines for our robot.  Finishing the 2021 season our team won the Rookie Game Changer Award, and the Rookie Game Design Award.  The robot design process involved developing my understanding of CAD software, learning new design processes, and how to design alongside a team.  For the 2022 season I am the team captain, am running regular team meetings, and organizing the programming, design/build, and business subteams."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Newbotics.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Newbotics2.jpg"
+		}]},"VirtualPresenceDevice ":{"name": "Virtual Presence Device","date": "January 2020","info": [
+		{
+			"type":"description",
+			"src":"For my final project in a Research and Design course I attended at Nantyr Shores SS, I developed a virtual presence device with the hope of allowing me to use a virtual reality headset to remotely move the robot and its attached arm.  Using a holonomic drive train with three 3D printed omnidirectional wheels I wanted the robot to be able to drive freely on the ground.  I incorporated my face-tracking robotic arm which I upgraded by installing stronger motors and newly printed joints with hopes of allowing the user to control a stronger arm.  Due to the increased power, it did face issues with power consumption but could be improved on in the future to be lighter and more efficient.  The device itself is made of 3D printed joints connecting metal tubing to create a frame structure for the arm, battery, and the device's computer to sit on.  This project used the Unity Game Engine to run the VR portion of the project and a third-party streaming network's API to send a video feed to the user.  This project greatly developed my C# programming and CAD assembly modeling skills."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/VirtualPresence.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/VirtualPresence2.jpg"
+		}]},"Laser-CutTrebuchet ":{"name": "Laser-Cut Trebuchet","date": "January 2020","info": [
+		{
+			"type":"description",
+			"src":"As a project for a Research and Design course I attended at Nantyr Shores SS, I worked with a partner to design a trebuchet that could be laser-cut.  The device was designed in AutoCAD and used Inkscape software for exporting to the laser cutter's file format.  The trebuchet could launch a projectile up to 6m away.  This project played a large role in the development of my 2D CAD abilities and was my first experience with laser cutting."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Trebuchet.jpg"
+		},{
+			"type":"linked-video",
+			"src": "https://www.youtube.com/embed/nalOQkzW4Cw"
+		}]},"Themoviescoop.Com ":{"name": "themoviescoop.com","date": "December 2019","info": [
+		{
+			"type":"description",
+			"src":"In the beginning of 2020 I worked with two friends to set up a website that hosted articles about movies and shows. Using html and CSS we designed the website and using Python we created a tool to convert a google document into an article. We've used media.net ads and google ads to generate revenue.  At the time of writing this the website is temporarily down as we secure new hosting but will be active again soon."}],"media": []},"Face-TrackingRoboticArm ":{"name": "Face-Tracking Robotic Arm","date": "November 2019","info": [
+		{
+			"type":"description",
+			"src":"My face tracking robotic arm featured a table-mounted arm capable of moving itself towards a person if it detected a face.  Using python's OpenCV library, an AI model trained to find faces, and an Arduino to control the motors of the arm, I was able to control the device.  This was a step in development for my larger goal of a Virtual Presence Device which I went on to develop soon after.  The project is made of servo motors, metal tubing, and 3D-printed mounting pieces.  This innovation was entered in Aurora's third Youth Innovation Fair where it won the Most Innovative Award, first place."}],"media": [{
+			"type":"link",
+			"src": "http://www.newspapers-online.com/auroran/young-innovators-share-their-ideas-for-the-future/"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/RobotArm.jpg"
+		}]},"2KgCardboardBridge ":{"name": "2kg Cardboard Bridge","date": "October 2019","info": [
+		{
+			"type":"description",
+			"src":"One of the major projects for a Research and Development course I was attending at Nantyr Shores SS included a cardboard bridge that spanned 2m and could hold 70kg.  This project involved working with a team of four to sketch, experiment, design, tweak, and build a cardboard bridge capable of holding a person.  This project involved learning a new 3D CAD software, Autodesk's Inventor, and developed my CAD detailing abilities."}],"media": [{
+			"type":"linked-video",
+			"src": "https://www.youtube.com/embed/ouLJjSMrSKk"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Bridge.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Bridge2.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Bridge3.jpg"
+		}]},"CanadaEnergyTrackerApp ":{"name": "Canada Energy Tracker App","date": "May 2019","info": [
+		{
+			"type":"description",
+			"src":"As a project for my grade 9 science course I worked with a programming friend and another classmate to develop an app to track energy usage and costs.  Without the 30-hour time limit of my previous app development experience, I was able to advance my user interface designing abilities and developed my app development skills, applying improvements to the code I learned from the hackathon."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/EnergyTracker.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/EnergyTracker2.jpg"
+		}]},"ParksAndTrailsApp ":{"name": "Parks and Trails App","date": "April 2019","info": [
+		{
+			"type":"description",
+			"src":"In a team with two friends, we entered the Aurora Library's Easter Hackathon to develop an app in a 30 hour time period that showed landmarks around the Town of Aurora on a map.  This was our first Hackathon and experience with app development.  In preparation for the competition, we were required to learn how to use the Android Studio IDE and Java language within a week.  Despite being a group of grade 9s in a competition aimed at grades 11 and 12, we managed to complete our app which was presented to the Mayor of Aurora and Library management staff, winning second place overall."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Hackathon2019.jpg"
+		}]},"Snowcaster ":{"name": "SnowCaster","date": "November 2018","info": [
+		{
+			"type":"description",
+			"src":"The SnowCaster was a Bluetooth-controlled tank-inspired device that moved and push snow based on user inputs through an Android app.  The idea behind the device was to have a robot constantly shovel a driveway during snowy weather, to avoid having to move mass amounts of snow.  The device features makeshift tank treads from PVC piping and was built with ideas of implementing computer vision and making the system autonomous in mind.  The SnowCaster was presented at the Aurora Youth Innovation Fair where many spectators took interest in my idea and the device won the Community Leadership award.  This project, having less to do with software, was focused on the prototyping and CAD process, and developed my 3D printing and hands-on manufacturing skills greatly."}],"media": [{
+			"type":"linked-video",
+			"src": "https://www.youtube.com/embed/OpNexJQPBY8"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/SnowCaster.jpg"
+		}]},"JeopardyClickers ":{"name": "Jeopardy Clickers","date": "June 2018","info": [
+		{
+			"type":"description",
+			"src":"For my teacher, I designed and built a jeopardy console that would allow his students to click a buzzer to light up an indicator.  This project was 3D printed and Arduino controlled and was the first time I developed a project specifically to be given to someone else.  This advanced my project documentation and instruction writing ability and was the first time I used 3D printing for a personal project."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/JeopardyClickers.jpg"
+		}]},"Inflatabox ":{"name": "Inflatabox","date": "June 2018","info": [
+		{
+			"type":"description",
+			"src":"For a grade 8 entrepreneurship project, I created a housing for inflatable holiday decorations.  Driving by the neighborhood I thought the look of these decorations when they were deflated could be improved.  When deflated the decoration was contained within the box.  When it was time to inflate it would use an elevating platform and a relay to raise and inflate the decoration.  This project was controlled with an Arduino which allowed the project to automatically raise and inflate, and lower and deflate an inflatable decoration based on times set by the user through an onboard user interface."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Inflatabox.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Inflatabox2.jpg"
+		}]},"MicrosoftEducationBlogPost ":{"name": "Microsoft Education Blog Post","date": "May 2018","info": [
+		{
+			"type":"description",
+			"src":"For our speech task in grade 8, I researched, wrote, and presented a speech about artificial intelligence to the school. An audience member approached me to submit my research as a blog post to Microsoft Education’s site. My article is unfortunately no longer active, but speacking and writing on this topic developed my ability to simply explain complex topics and taught me a lot about deep neural networks and various AI training techniques."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/AIArticle.jpg"
+		}]},"CallDiffusionDemonstration ":{"name": "Call Diffusion Demonstration","date": "November 2017","info": [
+		{
+			"type":"description",
+			"src":"For a grade 8 cell diffusion project I used an Arduino, ultrasonic sensor, and recycled LED circuit to represent diffusion of nutrients from a red blood cell to surrounding tissue.  The blood cell was on a disc driven by a motor and as it moved through some arc on its path would be detected by the ultrasonic sensor.  On detection, the cell would stop and white LEDs would blink, indicating the transfer of nutrients from the cell to the surrounding tissue.  Finally, a blue LED would turn on to indicate that the tissue had received its nutrients and the cell would move forward on its path.  It wasn't pretty but it worked well to demonstrate diffusion."}],"media": [{
+			"type":"linked-video",
+			"src": "https://www.youtube.com/embed/aXVnKHF5Ezg"
+		}]},"DishLift ":{"name": "Dish Lift","date": "November 2017","info": [
+		{
+			"type":"description",
+			"src":"The Dish Lift was an elevating platform to raise and lower pet food.  This was designed to be used by those who could not easily bend over to switch out their pet's food.  The design features a scissor lift and switch that could be operated by the user's foot to raise and lower the platform.  This innovation was present at East Gwillimbury's second Ideas Expo fair, and at Aurora's first Youth Innovation Fair. The Dish Lift won first prize at the Ideas Expo."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/DishLift.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/DishLift2.jpg"
+		}]},"Coolband ":{"name": "CoolBand","date": "November 2016","info": [
+		{
+			"type":"description",
+			"src":"As my first innovation project, I made a device that would cool me down when I went golfing. I used a pc fan, a switch, and a 12V camera battery in a cardboard housing to make a visor I could tie around my head and carry easily.  This was a very simple electronics project but was the start of my product development hobby.  This project was presented at a local fair: East Gwillimbury's Ideas Expo and also developed my public speaking and marketing ability.  This idea won second place at the Ideas Expo."}],"media": [{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Coolband.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Coolband2.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Coolband3.jpg"
+		},{
+			"type":"image",
+			"src": "https://mattisrobot.000webhostapp.com/img/Coolband4.jpg"
+		}]}}
