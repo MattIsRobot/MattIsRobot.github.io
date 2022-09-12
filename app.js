@@ -1,5 +1,5 @@
 
-fetch("https://mattisrobot.000webhostapp.com/data.json")
+fetch("https://mattisrobot.github.io/data.json")
 .then(response => {
    return response.json();
 })
